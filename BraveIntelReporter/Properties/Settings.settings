@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>
+
+
+
+UPDATE user
+  SET authkey = UUID()
+  where authkey is null
+  
+  
+  
+  
+  SELECT SUBSTR(REPLACE(UUID(),'-',''),1,30) as randomStringUUID;
+  
+  
+  update user set authkey=SUBSTR(REPLACE(UUID(),'-',''),1,30) where id=1156;

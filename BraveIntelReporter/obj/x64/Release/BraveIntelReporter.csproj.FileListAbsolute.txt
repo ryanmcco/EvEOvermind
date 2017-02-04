@@ -1,0 +1,35 @@
+C:\Users\serin\Desktop\BraveReporter-master\main\BraveIntelReporter\bin\x64\Release\TESTIntelReporter.exe.config
+C:\Users\serin\Desktop\BraveReporter-master\main\BraveIntelReporter\bin\x64\Release\TESTIntelReporter.exe.manifest
+C:\Users\serin\Desktop\BraveReporter-master\main\BraveIntelReporter\bin\x64\Release\TESTIntelReporter.application
+C:\Users\serin\Desktop\BraveReporter-master\main\BraveIntelReporter\bin\x64\Release\TESTIntelReporter.exe
+C:\Users\serin\Desktop\BraveReporter-master\main\BraveIntelReporter\bin\x64\Release\TESTIntelReporter.pdb
+C:\Users\serin\Desktop\BraveReporter-master\main\BraveIntelReporter\obj\x64\Release\BraveIntelReporter.csprojResolveAssemblyReference.cache
+C:\Users\serin\Desktop\BraveReporter-master\main\BraveIntelReporter\obj\x64\Release\BraveIntelReporter.frmAbout.resources
+C:\Users\serin\Desktop\BraveReporter-master\main\BraveIntelReporter\obj\x64\Release\BraveIntelReporter.frmMain.resources
+C:\Users\serin\Desktop\BraveReporter-master\main\BraveIntelReporter\obj\x64\Release\BraveIntelReporter.frmSelectProcess.resources
+C:\Users\serin\Desktop\BraveReporter-master\main\BraveIntelReporter\obj\x64\Release\BraveIntelReporter.frmSettings.resources
+C:\Users\serin\Desktop\BraveReporter-master\main\BraveIntelReporter\obj\x64\Release\BraveIntelReporter.Properties.Resources.resources
+C:\Users\serin\Desktop\BraveReporter-master\main\BraveIntelReporter\obj\x64\Release\BraveIntelReporter.csproj.GenerateResource.Cache
+C:\Users\serin\Desktop\BraveReporter-master\main\BraveIntelReporter\obj\x64\Release\TESTIntelReporter.exe.manifest
+C:\Users\serin\Desktop\BraveReporter-master\main\BraveIntelReporter\obj\x64\Release\TESTIntelReporter.application
+C:\Users\serin\Desktop\BraveReporter-master\main\BraveIntelReporter\obj\x64\Release\TESTIntelReporter.exe
+C:\Users\serin\Desktop\BraveReporter-master\main\BraveIntelReporter\obj\x64\Release\TESTIntelReporter.pdb
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\bin\x64\Release\jumpsystems.csv
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\bin\x64\Release\Resources\jumpsystems.csv
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\bin\x64\Release\OvermindLogSender.exe.config
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\bin\x64\Release\OvermindLogSender.exe.manifest
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\bin\x64\Release\OvermindLogSender.application
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\bin\x64\Release\OvermindLogSender.exe
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\bin\x64\Release\OvermindLogSender.pdb
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\obj\x64\Release\BraveIntelReporter.frmAbout.resources
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\obj\x64\Release\BraveIntelReporter.frmMain.resources
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\obj\x64\Release\BraveIntelReporter.frmSelectProcess.resources
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\obj\x64\Release\BraveIntelReporter.frmSettings.resources
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\obj\x64\Release\BraveIntelReporter.Properties.Resources.resources
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\obj\x64\Release\BraveIntelReporter.csproj.GenerateResource.Cache
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\obj\x64\Release\OvermindLogSender.exe.manifest
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\obj\x64\Release\OvermindLogSender.application
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\obj\x64\Release\OvermindLogSender.exe
+C:\Users\McConnell\Downloads\Reporter_Client_Application\Reporter Client Application\BraveIntelReporter\obj\x64\Release\OvermindLogSender.pdb

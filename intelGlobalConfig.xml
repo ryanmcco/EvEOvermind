@@ -1,0 +1,12 @@
+<BraveReporterSettings>
+<chatrooms>
+<chatroom type="intel">TEST Intel Channel</chatroom>
+<chatroom type="intel">Lift_The_Vale</chatroom>
+<chatroom type="intel">CO2.Scouts</chatroom>
+<chatroom type="intel">UnitedSouth</chatroom>
+</chatrooms>
+<IntelServer>https://www.intelmap.xyz/BraveIntelServer/report</IntelServer>
+<EntosisServer>https://www.intelmap.xyz/entosisreport</EntosisServer>
+<MapLink>http://test.eveovermind.com/overview/intelmap.php</MapLink>
+<MonitorFrequency>750</MonitorFrequency>
+</BraveReporterSettings>
