@@ -533,7 +533,7 @@ namespace BraveIntelReporter
                     }
 
                     ReportIntel(bigLine);
-                    for (int i = 1; i < 300; i++) // A lazy way of waiting 10 seconds but keeping the UI responsive without multithreading. 
+                    for (int i = 1; i < 300; i++) //wait 30 seconds. 
                     {
                         Application.DoEvents();
                         System.Threading.Thread.Sleep(100);
