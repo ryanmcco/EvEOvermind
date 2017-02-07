@@ -95,7 +95,7 @@ namespace BraveIntelReporter
         /// <summary>
         /// Folder to save application configuration files.
         /// </summary>
-        public static string MyFolder = System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "EVE", "BraveIntelReporter");
+        public static string MyFolder = System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "EVE", "OvermindLogSender");
         public static bool Verbose = true;
         public static bool SetEveToBackground = false;
         public static bool CheckClipboard = false;
@@ -145,7 +145,7 @@ namespace BraveIntelReporter
             //get a copy of the latest intel xml, replace the local copy with it
             try
             {
-                string configurlstring = "https://test.eveovermind.com/getConfig.php?token=" + AuthToken;
+                string configurlstring = "https://collab.eveovermind.com/getConfig.php?token=" + AuthToken;
                 Console.WriteLine("configurlstring " + configurlstring);
                 client.DownloadFile(configurlstring, Path.Combine(MyFolder, "intelGlobalConfig.xml"));
                 report = "Global config updated.";

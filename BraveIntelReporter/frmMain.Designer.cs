@@ -62,8 +62,8 @@
             // 
             // txtIntel
             // 
-            this.txtIntel.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.txtIntel.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txtIntel.Location = new System.Drawing.Point(10, 27);
             this.txtIntel.Multiline = true;
@@ -81,7 +81,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(57, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Reported: ";
+            this.label1.Text = "  ";
             // 
             // label2
             // 
@@ -91,7 +91,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(41, 13);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Failed: ";
+            this.label2.Text = "  ";
             // 
             // lblReported
             // 
@@ -101,7 +101,7 @@
             this.lblReported.Name = "lblReported";
             this.lblReported.Size = new System.Drawing.Size(13, 13);
             this.lblReported.TabIndex = 3;
-            this.lblReported.Text = "0";
+            this.lblReported.Text = "  ";
             // 
             // lblFailed
             // 
@@ -111,7 +111,7 @@
             this.lblFailed.Name = "lblFailed";
             this.lblFailed.Size = new System.Drawing.Size(13, 13);
             this.lblFailed.TabIndex = 4;
-            this.lblFailed.Text = "0";
+            this.lblFailed.Text = "  ";
             // 
             // notifyIcon1
             // 
@@ -355,4 +355,3 @@
         private System.Windows.Forms.ToolStripMenuItem addDScanLocalScanToolStripMenuItem;
     }
 }
-

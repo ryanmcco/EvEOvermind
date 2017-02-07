@@ -635,8 +635,8 @@ namespace BraveIntelReporter
                     appendText(string.Format("Intel Server Error: {0}\r\n", ex.Message));
                 Debug.Write(string.Format("Exception: {0}", ex.Message));
             }
-            lblReported.Invoke(new MethodInvoker(() => lblReported.Text = reported.ToString()));
-            lblFailed.Invoke(new MethodInvoker(() => lblFailed.Text = failed.ToString()));
+            //lblReported.Invoke(new MethodInvoker(() => lblReported.Text = reported.ToString()));
+          //  lblFailed.Invoke(new MethodInvoker(() => lblFailed.Text = failed.ToString()));
         }
 
         private void frmMain_Resize(object sender, EventArgs e)

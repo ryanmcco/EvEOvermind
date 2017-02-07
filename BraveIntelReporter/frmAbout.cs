@@ -15,8 +15,8 @@ namespace BraveIntelReporter
         public frmAbout()
         {
             InitializeComponent();
-            labelCompanyName.Text = "Brave Collective";
-            lblDevelopers.Text = "Developed by: Serinus Gareth for use with Kiu Nakamura's intel map.";
+            labelCompanyName.Text = "EVEOvermind.com Reusing OpenSource code from Brave Collective";
+            lblDevelopers.Text = "Developed by: Jimronius for EvE Overmind.  \n But MOST credit goes to Serinus Gareth.";
 
             if (ApplicationDeployment.IsNetworkDeployed)
                 labelVersion.Text = "Version " + ReportLine.Version;
