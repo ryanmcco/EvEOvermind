@@ -15,15 +15,15 @@ namespace BraveIntelReporter
         public frmAbout()
         {
             InitializeComponent();
-            labelCompanyName.Text = "EVEOvermind.com Reusing OpenSource code from Brave Collective";
-            lblDevelopers.Text = "Developed by: Jimronius for EvE Overmind.  \n But MOST credit goes to Serinus Gareth.";
+            labelCompanyName.Text = "OpenSource code from Brave Collective";
+            lblDevelopers.Text = "Serinus Gareth";
 
             if (ApplicationDeployment.IsNetworkDeployed)
                 labelVersion.Text = "Version " + ReportLine.Version;
             else labelVersion.Text = "Development Version " + ReportLine.Version;
 
             txtDescription.Text = string.Empty;
-            txtDescription.AppendText("Version 1.1.0.11 - Modified for EvE Overmind use.");
+            txtDescription.AppendText("Version 1.1.0.11 - Modified for EvE Overmind use by Jimronius.");
             txtDescription.AppendText("\r\n");
             txtDescription.AppendText("Version 1.1.0.10 - Modified for TEST Alliance use.");
             txtDescription.AppendText("\r\n");
@@ -137,6 +137,11 @@ namespace BraveIntelReporter
         }
 
         private void frmAbout_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblDevelopers_Click(object sender, EventArgs e)
         {
 
         }

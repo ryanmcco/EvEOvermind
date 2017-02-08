@@ -97,6 +97,7 @@
             this.lblDevelopers.TabIndex = 19;
             this.lblDevelopers.Text = "Developers";
             this.lblDevelopers.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.lblDevelopers.Click += new System.EventHandler(this.lblDevelopers_Click);
             // 
             // tableLayoutPanel
             // 
@@ -135,7 +136,7 @@
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "Brave Intel Reporter";
+            this.Text = "EvEOvermind.com Log Reporter";
             this.Load += new System.EventHandler(this.frmAbout_Load);
             this.tableLayoutPanel.ResumeLayout(false);
             this.tableLayoutPanel.PerformLayout();
